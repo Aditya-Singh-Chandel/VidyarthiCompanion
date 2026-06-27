@@ -219,9 +219,9 @@ node src/seedDemoData.js     # Populates sample events, communities, etc.
 |:---:|:---:|
 | ![Calendar](https://github.com/user-attachments/assets/075ca086-4f7a-4b6e-8ea6-926f82d49db2) | ![Community](https://github.com/user-attachments/assets/73e5d870-70e9-4432-b866-d8382975068d) |
 
-| PocketBuddy — Capture | PocketBuddy — History |
-|:---:|:---:|
-| ![PocketBuddy Capture](https://github.com/user-attachments/assets/797ec984-b2cc-4c88-a41d-1acb1a832f05) | ![PocketBuddy History](https://github.com/user-attachments/assets/ce5f67a1-3a0c-4a00-abdb-adde4aad833a) |
+| PocketBuddy |
+|:---:|
+| ![PocketBuddy Capture](https://github.com/user-attachments/assets/797ec984-b2cc-4c88-a41d-1acb1a832f05) |
 
 ---
 
