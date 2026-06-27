@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+.next/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Sub-project directories (separate git repos)
+VidyarthiCompanion-backend/
+VidyarthiCompanion-frontend/
+github-backend/
+github-frontend/
+
+# Internal docs & hackathon materials (not needed on GitHub)
+*.pdf
+*.docx
+*.pptx
+HackOn Features.md
