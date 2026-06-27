@@ -13,13 +13,13 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-2.5_Flash-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-Ready-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
 
-**HackOn with Amazon 2026** — *AI for Campus, Community & Everyday Life*
+
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-00C853?style=for-the-badge)](https://vidyarthicompanionfrontend.vercel.app)
 [![Frontend Repo](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Aditya-Singh-Chandel/vidyarthicompanion_frontend)
 [![Backend Repo](https://img.shields.io/badge/Backend-Repository-orange?style=for-the-badge&logo=github)](https://github.com/Aditya-Singh-Chandel/vidyarthicompanion_backend)
 
-[Features](#-key-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Links](#-links) · [Team](#-team)
+[Features](#-key-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Links](#-links)
 
 </div>
 
@@ -37,7 +37,6 @@
 - [Links](#-links)
 - [Screenshots](#-screenshots)
 - [Roadmap](#-roadmap)
-- [Team](#-team)
 - [License](#-license)
 
 ---
@@ -46,7 +45,7 @@
 
 Over **250 million university students** globally suffer from a "Fragmented Operational Deficit" — wasting ~200 hours annually reconciling outdated portals with chaotic WhatsApp schedule changes. Students are forced to manage academics, daily finances, and physical wellness in isolation, driving **71% chronic burnout rates** and **18% higher dropout rates** among unsupported cohorts.
 
-**VidyarthiCompanion** unifies two of the hackathon's flagship concepts — *CampusFlow* (AI OS for student life) and *PocketBuddy* (AI financial & wellness assistant) — into one community-verified operating system.
+**VidyarthiCompanion** unifies *CampusFlow* (AI OS for student life) and *PocketBuddy* (AI financial & wellness assistant) into one community-verified operating system.
 
 ---
 
@@ -106,10 +105,10 @@ Amazon Hackon/
 
 > **Note:** `VidyarthiCompanion-*` directories point to a local MongoDB instance for development, while `github-*` directories are configured for cloud MongoDB Atlas deployment. Both pairs share the same codebase.
 
-Each sub-project has its own detailed README:
+Each sub-project lives in its own repository:
 
-- [`VidyarthiCompanion-frontend/README.md`](./VidyarthiCompanion-frontend/README.md) — Frontend setup, pages, and component guide
-- [`VidyarthiCompanion-backend/README.md`](./VidyarthiCompanion-backend/README.md) — Backend API docs, module descriptions, and routes
+- [**Frontend Repository**](https://github.com/Aditya-Singh-Chandel/vidyarthicompanion_frontend) — Frontend setup, pages, and component guide
+- [**Backend Repository**](https://github.com/Aditya-Singh-Chandel/vidyarthicompanion_backend) — Backend API docs, module descriptions, and routes
 
 ---
 
@@ -249,28 +248,6 @@ node src/seedDemoData.js     # Populates sample events, communities, etc.
 
 ---
 
-## 👥 Team
-
-**Team QuantYap** — *HackOn with Amazon 2026*
-
-| Name | Role | College | Email |
-|------|------|---------|-------|
-| **Soneesh Kumar Srivastava** | Backend Dev | BIT Mesra | soneeshkumarsrivastava@gmail.com |
-| **Aditya Singh Chandel** | Frontend Dev | IIIT Lucknow | adityasinghchandel269@gmail.com |
-| **Abhinav Sahu** | ML / AI Engineer | BIT Mesra | abhinav.sahu2023@gmail.com |
-
----
-
 ## 📄 License
 
-This project was built for the **HackOn with Amazon 2026** hackathon.
-
----
-
-<div align="center">
-
-**Built with love by Team QuantYap for HackOn with Amazon 2026**
-
-*AI for Campus, Community & Everyday Life*
-
-</div>
+This project is open source and available under the [MIT License](LICENSE).
